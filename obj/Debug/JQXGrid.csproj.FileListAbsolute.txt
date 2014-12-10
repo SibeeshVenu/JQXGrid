@@ -1,0 +1,5 @@
+J:\Visual Studio\JQXGrid\JQXGrid\bin\JQXGrid.dll
+J:\Visual Studio\JQXGrid\JQXGrid\bin\JQXGrid.pdb
+J:\Visual Studio\JQXGrid\JQXGrid\obj\Debug\ResolveAssemblyReference.cache
+J:\Visual Studio\JQXGrid\JQXGrid\obj\Debug\JQXGrid.dll
+J:\Visual Studio\JQXGrid\JQXGrid\obj\Debug\JQXGrid.pdb
